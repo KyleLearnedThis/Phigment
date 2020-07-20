@@ -20,7 +20,7 @@ The app does use third party services that may collect information used to ident
 
 Link to privacy policy of third party service providers used by the app
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [Imgur Services Privacy](https://imgur.com/privacy)
 
 **Log Data**
 
